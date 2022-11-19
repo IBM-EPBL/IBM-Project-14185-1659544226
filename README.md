@@ -10,3 +10,15 @@ The prediction of credit defaulters is one of the difficult tasks for any bank. 
 
 We will be using classification algorithms such as Decision tree, Random forest, KNN, and xgboost. We will train and test the data with these algorithms. From this best model is selected and saved in pkl format. We will be doing flask integration and IBM deployment.
 
+## Technical Architecture:
+![image](https://user-images.githubusercontent.com/112349181/202871808-24748414-7595-4814-b560-87aabc834c60.png)
+
+## Team Members:
+1.	T. Anandharaman (TL) (Lost-z0)
+2.	S. Abineshkannan (Abineshkannan)
+3.	A. Barathvaj (BARATHVAJ6)
+4.	B. Brajesh Choudhary (Brajesh_Choudhary)
+5.	S. Karthik (Karthik4322)
+
+![image](https://user-images.githubusercontent.com/112349181/202871858-f2de81df-703c-4ea6-954c-ef2a050cf8be.png)
+
