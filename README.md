@@ -15,7 +15,7 @@ We will be using classification algorithms such as Decision tree, Random forest,
 
 ## Team Members:
 1.	T. Anandharaman (TL) (Lost-z0)
-2.	S. Abineshkannan (Abineshkannan)
+2.	S. Abineshkannan (ABUKANNAN)
 3.	A. Barathvaj (BARATHVAJ6)
 4.	B. Brajesh Choudhary (Brajesh_Choudhary)
 5.	S. Karthik (Karthik4322)
